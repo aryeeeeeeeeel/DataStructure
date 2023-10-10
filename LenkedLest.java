@@ -16,8 +16,8 @@ class LenkedLest {
                
 //        animals.remove();
 //        animals.remove(1);
-//        animals.removeFirst();
-//        animals.removeLast();
+        animals.removeFirst();
+        animals.removeLast();
         
 //        System.out.println("LinkedList: " + animals);        
 //        boolean containsLion = animals.contains("Lion");
